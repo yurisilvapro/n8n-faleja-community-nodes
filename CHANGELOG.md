@@ -15,7 +15,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - HMAC webhook validation
 - Resource Locators for better UX
 
-## [0.1.0] - 2026-01-19
+## [1.0.0] - 2026-01-19
+
+### Changed
+- Updated to stable version 1.0.0
+- Improved Chatwoot logo/icon for better visibility in n8n
+- Added PNG fallback for icon
+
+### Fixed
+- Icon now displays correctly in n8n interface
+
+## [0.1.0-beta.1] - 2026-01-19
 
 ### Added
 
