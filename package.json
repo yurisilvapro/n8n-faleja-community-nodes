@@ -12,14 +12,14 @@
     "helpdesk"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/yurisilva/chatwoot-community-nodes",
+  "homepage": "https://github.com/yurisilvapro/chatwoot-community-nodes",
   "author": {
     "name": "Yuri Silva",
     "email": "yuri@example.com"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yurisilva/chatwoot-community-nodes.git"
+    "url": "git+https://github.com/yurisilvapro/chatwoot-community-nodes.git"
   },
   "main": "index.js",
   "scripts": {

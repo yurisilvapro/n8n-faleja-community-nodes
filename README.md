@@ -1,5 +1,6 @@
 # n8n Community Nodes - Chatwoot Complete Integration
 
+[![GitHub Stars](https://img.shields.io/github/stars/yurisilvapro/chatwoot-community-nodes?style=social)](https://github.com/yurisilvapro/chatwoot-community-nodes)
 [![npm version](https://badge.fury.io/js/n8n-nodes-chatwoot-complete.svg)](https://badge.fury.io/js/n8n-nodes-chatwoot-complete)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
