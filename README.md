@@ -548,28 +548,37 @@ MIT License - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
 | API Type | Recursos | Status |
 |----------|----------|--------|
-| Application APIs | 20/20 | 🚧 Em Desenvolvimento |
-| Client APIs | 3/3 | 🚧 Em Desenvolvimento |
-| Platform APIs | 4/4 | 🚧 Em Desenvolvimento |
+| Application APIs | 10/20 | ✅ Versão 1.0.0 |
+| Client APIs | 3/3 | ✅ Versão 1.0.0 |
+| Platform APIs | 4/4 | ✅ Versão 1.0.0 |
 
 ### Roadmap
 
 - [x] Planejamento e arquitetura
-- [ ] Fase 1: Setup e credenciais
-- [ ] Fase 2: Application APIs - Core
-- [ ] Fase 3: Application APIs - Complementares
-- [ ] Fase 4: Application APIs - Avançadas
-- [ ] Fase 5: Client APIs
-- [ ] Fase 6: Platform APIs
-- [ ] Fase 7: Qualidade e documentação
-- [ ] Fase 8: Publicação no npm
+- [x] Fase 1: Setup e credenciais
+- [x] Fase 2: Application APIs - Core
+- [x] Fase 5: Client APIs
+- [x] Fase 6: Platform APIs
+- [x] Fase 7: Qualidade e documentação
+- [x] Fase 8: Publicação no npm ✅
+- [ ] Fase 3: Application APIs - Complementares (próxima versão)
+- [ ] Fase 4: Application APIs - Avançadas (próxima versão)
 
 ---
 
 ## 🔄 Changelog
 
-### [0.1.0] - 2026-01-19
-- Planejamento inicial
+### [1.0.0] - 2026-01-19
+- ✅ Primeira versão estável publicada
+- ✅ 10 recursos da Application API
+- ✅ 3 recursos da Client API
+- ✅ 4 recursos da Platform API
+- ✅ Logo/ícone otimizado
+- ✅ Documentação completa
+- ✅ Publicado no npm
+
+### [0.1.0-beta.1] - 2026-01-19
+- Versão beta inicial
 - Estrutura do projeto
 - Documentação base
 
